@@ -1,8 +1,8 @@
 {
-  "name": "dialogflow-fulfillment",
+  "name": "ooxoo-dialogflow-fulfillment",
   "description": "Dialogflow Fulfillment Library for Node.js",
   "main": "src/dialogflow-fulfillment.js",
-  "version": "0.6.2",
+  "version": "0.6.5",
   "license": "Apache-2.0",
   "author": "Google Inc.",
   "directories": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dialogflow/dialogflow-fulfillment-nodejs.git"
+    "url": "git+https://github.com/ooxoo-bv/dialogflow-fulfillment-nodejs.git"
   },
   "bugs": {
     "url": "https://github.com/dialogflow/dialogflow-fulfillment-nodejs/issues"
